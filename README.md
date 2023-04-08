@@ -1,2 +1,3 @@
 # RasDuino_USBKeyboard
-Making USB Programmable Keyboard by RasDuino
+ATMega32U4を使用したオリジナルの自作USBキーボードの製作
+

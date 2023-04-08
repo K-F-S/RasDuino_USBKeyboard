@@ -9,6 +9,6 @@ Aruduino環境でKeyPadを扱う上で必要なライブラリ<br>
 https://github.com/Chris--A/Keypad
 ライブラリ導入参考動画<br>
 https://youtu.be/Z0CQltwEQGQ
-OLCD<br>
+2. OLCD<br>
 ssd1306
 

@@ -10,5 +10,11 @@ https://github.com/Chris--A/Keypad<br>
 ライブラリ導入参考動画<br>
 https://youtu.be/Z0CQltwEQGQ
 2. OLCD<br>
-ssd1306
+ssd1306 Ascii ライブラリ<br>
+https://github.com/greiman/SSD1306Ascii
 
+USBテンキー改造ワークシート<br>
+https://docs.google.com/spreadsheets/d/1hxTGSbLIsv_o8sD4mXhTPpr8AlillM_E0T3cBG6pJyg/edit?usp=share_link
+
+ロータリーエンコーダー解説<br>
+https://sheep-me.me/2019/12/05/geidai_21/

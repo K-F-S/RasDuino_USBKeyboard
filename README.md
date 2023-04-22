@@ -2,7 +2,10 @@
 ATMega32U4を使用したオリジナルの自作USBキーボードの製作
 
 参考サイト<br>
-https://qiita.com/nak435/items/71e8c6ac306a661f8be8
+1.Buffalo<br>
+https://qiita.com/nak435/items/71e8c6ac306a661f8be8<br>
+2.Cando<br>
+https://asobu.blog/blog/daiso-330yen-usb10key/
 
 Aruduino環境でKeyPadを扱う上で必要なライブラリ<br>
 1. Keypad<br>
